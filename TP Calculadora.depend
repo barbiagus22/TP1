@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1536291469 source:c:\users\gonza\desktop\tp programacion\tp calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"milibreria.h"
+
+1536289551 c:\users\gonza\desktop\tp programacion\tp calculadora\milibreria.h
+
+1536289581 source:c:\users\gonza\desktop\tp programacion\tp calculadora\milibreria.c
+	<stdio.h>
+	"milibreria.h"
+
+1536123521 c:\users\gonza\desktop\tp programacion\tp calculadora\insaurralde.h
+
+1536123700 source:c:\users\gonza\desktop\tp programacion\tp calculadora\insaurralde.c
+	<stdio.h>
+	"Insaurralde.h"
+
